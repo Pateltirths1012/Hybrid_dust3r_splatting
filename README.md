@@ -16,7 +16,7 @@ This project merges DUSt3R's geometric accuracy with 3D Gaussian Splatting's rea
 Starting from cloning the repo and installing the submodules
 
 ```sh
-git clone "our-repo-http-link" --recursive
+git clone git@github.com:Pateltirths1012/Hybrid_dust3r_splatting.git --recursive
 cd hybrid-duster-splat
 git pull --recurse-submodules
 git submodule update --init --recursive
