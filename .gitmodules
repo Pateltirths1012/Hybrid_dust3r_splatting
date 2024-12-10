@@ -1,0 +1,8 @@
+
+
+[submodule "dust3r"]
+	path = dust3r
+	url = https://github.com/nerlfield/dust3r.git
+[submodule "gaussian-splatting"]
+	path = gaussian-splatting
+	url = https://github.com/nerlfield/gaussian-splatting.git
