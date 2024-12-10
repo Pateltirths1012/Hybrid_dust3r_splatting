@@ -1,5 +1,3 @@
-
-
 [submodule "dust3r"]
 	path = dust3r
 	url = https://github.com/nerlfield/dust3r.git
